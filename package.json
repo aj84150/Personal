@@ -1,0 +1,15 @@
+{
+  "name": "search-api",
+  "version": "1.0.0",
+  "description": "Order Search API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anoop",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.486.0",
+    "express": "^4.17.1"
+  }
+}
